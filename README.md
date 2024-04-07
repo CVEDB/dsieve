@@ -1,4 +1,4 @@
-<h1 align="center">dsieve <a href="https://twitter.com/intent/tweet?text=dsieve%20-%20Filter%20and%20enrich%20a%20list%20of%20subdomains%20by%20level%20%40trick3st%0Ahttps%3A%2F%2Fgithub.com%2Fcvedb%2Fdsieve&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
+<h1 align="center">dsieve <a href="https://twitter.com/intent/tweet?text=dsieve%20-%20Filter%20and%20enrich%20a%20list%20of%20subdomains%20by%20level%20%40khulnasoft%0Ahttps%3A%2F%2Fgithub.com%2Fcvedb%2Fdsieve&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
 <h3 align="center">Filter and enrich a list of subdomains by level</h3>
 
 ![dsieve](dsieve.png "dsieve")
@@ -102,9 +102,9 @@ bar.target.com
 ```
 
 # Report Bugs / Feedback
-We look forward to any feedback you want to share with us or if you're stuck with a problem you can contact us at [support@cvedb.com](mailto:support@cvedb.com). You can also create an [Issue](https://github.com/cvedb/dsieve/issues/new) or pull request on the Github repository.
+We look forward to any feedback you want to share with us or if you're stuck with a problem you can contact us at [support@khulnasoft](mailto:support@khulnasoft). You can also create an [Issue](https://github.com/cvedb/dsieve/issues/new) or pull request on the Github repository.
 
 # Where does this fit in your methodology?
-Dsieve is an integral part of many workflows in the CVEDB store. Sign up on [cvedb.com](https://cvedb.com) to get access to these workflows or build your own from scratch!
+Dsieve is an integral part of many workflows in the CVEDB store. Sign up on [cvedb.khulnasoft](https://cvedb.khulnasoft) to get access to these workflows or build your own from scratch!
 
 [<img src="./banner.png" />](https://cvedb.io/auth/register)
